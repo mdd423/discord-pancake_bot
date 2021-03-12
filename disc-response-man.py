@@ -46,4 +46,4 @@ async def on_message(message):
     print('gene: ' + generated)
     await message.channel.send(generated)
 
-client.run('NjM5NjU0ODEwMTE0NzE5NzQ1.Xbua9g._E8sPTCfIeK06R6aYENVxiRv-Xs')
+client.run()
